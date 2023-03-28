@@ -3,11 +3,6 @@ HealthFusion has identified a critical business problem, which is the lack of ac
 
 The proposed solution, HealthFusion, is novel and practical as it offers a comprehensive solution to detect multiple diseases using the power of AI. HealthFusion is a user-friendly app that can be accessed from the comfort of homes, making it accessible to everyone. The use of advanced technologies such as Convolutional Neural Networks, Random Forest, and XGBoost allows for accurate and timely detection of diseases, leading to better patient outcomes.
 
-The solution is potentially viable as it addresses a critical business problem and offers a practical solution. The use of AI technology and advanced algorithms can provide accurate disease detection, which can help in early diagnosis and timely treatment, leading to better health outcomes.
-
-HealthFusion is competitive enough to enter into the market as it offers a unique and innovative solution in the medical industry. The accuracy achieved in disease detection is impressive, with an average of 80% accuracy across all diseases, which makes HealthFusion a reliable and trustworthy solution.
-
-The startup has the potential to make a profit or secure potential business for the future as the demand for accessible and accurate disease detection solutions is increasing. The use of AI technology and advanced algorithms can also attract investors who are interested in innovative solutions.
 
 
 **How to run this project**
@@ -26,14 +21,11 @@ flask run
 
 **contact me :- lkkarunarathne143@gmail.com**
 
-<!-- Begin SF Tag -->
-    <a>
+
 <div class="sf-root" data-id="3617418" data-badge="oss-users-love-us-white" style="width:137px">
     <a href="https://sourceforge.net/projects/healthfusion/" target="_blank">HealthFusion</a>
 </div>
-<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3617418';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
-</script></a>
-<!-- End SF Tag -->
+
 
 <a href="https://sourceforge.net/projects/healthfusion/files/latest/download"><img alt="Download HealthFusion" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 
