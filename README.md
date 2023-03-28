@@ -25,3 +25,17 @@ pip install opencv-python numpy tensorflow scikit-learn imutils flask xgboost
 flask run
 
 **contact me :- lkkarunarathne143@gmail.com**
+
+<!-- Begin SF Tag -->
+<div class="sf-root" data-id="3617418" data-badge="oss-users-love-us-white" style="width:137px">
+    <a href="https://sourceforge.net/projects/healthfusion/" target="_blank">HealthFusion</a>
+</div>
+<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3617418';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
+</script>
+<!-- End SF Tag -->
+
+<a href="https://sourceforge.net/projects/healthfusion/files/latest/download"><img alt="Download HealthFusion" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
+
+<a href="https://sourceforge.net/projects/healthfusion/files/latest/download"><img alt="Download HealthFusion" src="https://img.shields.io/sourceforge/dm/healthfusion.svg" ></a>
+
+<a href="https://sourceforge.net/p/healthfusion/"><img alt="Download HealthFusion" src="https://sourceforge.net/sflogo.php?type=17&group_id=3617418" width=200></a>
