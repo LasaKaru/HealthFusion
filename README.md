@@ -16,12 +16,12 @@ The startup has the potential to make a profit or secure potential business for 
 
 **2.Create a conda environment and install the required libraries,**
 
-**conda create -n healthcure python=3.9
+conda create -n healthcure python=3.9
 conda activate healthcure 
-pip install opencv-python numpy tensorflow scikit-learn imutils flask xgboost**
+pip install opencv-python numpy tensorflow scikit-learn imutils flask xgboost
 
 **3. When you have successfully created the environment, installed the required libraries, and activated it, simply run the following command in the terminal.**
 
-**flask run**
+flask run
 
 **contact me :- lkkarunarathne143@gmail.com**
