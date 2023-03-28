@@ -13,6 +13,7 @@ The startup has the potential to make a profit or secure potential business for 
 **How to run this project**
 
 **1.Clone the Repo**
+
 **2.Create a conda environment and install the required libraries,**
 
 **conda create -n healthcure python=3.9
