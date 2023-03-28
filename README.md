@@ -27,11 +27,12 @@ flask run
 **contact me :- lkkarunarathne143@gmail.com**
 
 <!-- Begin SF Tag -->
+    <a>
 <div class="sf-root" data-id="3617418" data-badge="oss-users-love-us-white" style="width:137px">
     <a href="https://sourceforge.net/projects/healthfusion/" target="_blank">HealthFusion</a>
 </div>
 <script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3617418';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
-</script>
+</script></a>
 <!-- End SF Tag -->
 
 <a href="https://sourceforge.net/projects/healthfusion/files/latest/download"><img alt="Download HealthFusion" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
