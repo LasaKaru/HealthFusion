@@ -12,7 +12,9 @@ The proposed solution, HealthFusion, is novel and practical as it offers a compr
 **2.Create a conda environment and install the required libraries,**
 
 conda create -n healthfusion python=3.9
+
 conda activate healthfusion 
+
 pip install opencv-python numpy tensorflow scikit-learn imutils flask xgboost
 
 **3. When you have successfully created the environment, installed the required libraries, and activated it, simply run the following command in the terminal.**
