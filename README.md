@@ -1,7 +1,27 @@
-# HealthFusion
+# HealthFusion An All-in-One AI-Medical Solution
 HealthFusion has identified a critical business problem, which is the lack of accessibility and timely detection of multiple diseases. The traditional approach of detecting diseases is time-consuming, expensive, and not accessible to everyone, especially in remote areas. This problem can lead to delayed diagnosis and treatment, which can have serious consequences for patients.
 
 The proposed solution, HealthFusion, is novel and practical as it offers a comprehensive solution to detect multiple diseases using the power of AI. HealthFusion is a user-friendly app that can be accessed from the comfort of homes, making it accessible to everyone. The use of advanced technologies such as Convolutional Neural Networks, Random Forest, and XGBoost allows for accurate and timely detection of diseases, leading to better patient outcomes.
+
+# Tools and Technologies
+*Python - Jupyter Notebook (TensorFlow for Model Training)
+*Flask Web Framework (for Backend)
+*Google Firebase (for Real-Time Storage and Firestore Database)
+*HTML, CSS, and JS (for Frontend)
+*Ai Powered chatbot Support (Openai / Gemini Advance API)
+
+# Runtime
+*Python v3.8.10
+
+# Dataset
+The dataset for the project was gathered from multiple sources. Two of them are as follows:
+
+Chest X-ray images (1000 images) were obtained from: https://github.com/ieee8023/covid-chestxray-dataset
+CT Scan images (750 images) were obtained from: https://github.com/UCSD-AI4H/COVID-CT/tree/master/Data-split
+80% of the images were used for training the models and the remaining 20% for testing.
+
+# Whats New
+*Ai chatbot 
 
 ## video
 ***HealthFusion Screencast 5minutes Pitch English***
@@ -63,8 +83,14 @@ pip install opencv-python numpy tensorflow scikit-learn imutils flask xgboost
 
 flask run
 
-**contact me :- lkkarunarathne143@gmail.com**
 
+# Authors
+
+Lasantha Karunarathne  [link](www.linkedin.com/in/lasakaru)
+
+Googlex Technologies  [link](https://www.linkedin.com/company/googlex-technologies)
+
+**contact me :- lkkarunarathne143@gmail.com**
 
 <div class="sf-root" data-id="3617418" data-badge="oss-users-love-us-white" style="width:137px">
     <a href="https://sourceforge.net/projects/healthfusion/" target="_blank">HealthFusion</a>
